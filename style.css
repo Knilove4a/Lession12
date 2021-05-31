@@ -1,0 +1,54 @@
+#table0{
+	border-width: 1px ;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color: black;
+	margin: auto;
+	width: 800px;
+}
+#table1{
+    border-width: 0px;
+    background-color: #e3ffdf;
+    border-color:#e3ffdf;
+    width: 500px;
+}
+#table2{
+	border-width: 0px; 
+    background-color: #ffe3e7;
+    border-color:#ffe3e7;
+    width: 500px;
+}
+#table3{
+	width: 300px;
+	background-position:top;
+}
+#table4,tr,th{
+	border-width: 1px ;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color:#E2E2E2;
+	width: 700px;
+}
+#td{
+	border-width: 1px ;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color:#E2E2E2;
+}
+.maunau{
+	background-color: #f0ebef;
+}
+.mauxanh{
+	background-color: #ddebfe;
+}
+#danhsach{
+   list-style-image: url(./a9.png);
+}
+#mauden{
+	background-color: #000200;
+	width: 100px; height: 30px;
+	color: white;
+}
+#option{
+	width: 150px;
+}
